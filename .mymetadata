@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="etl_new"
+  id="myeclipse.1470814384601"
+  context-root="/etl_new"
+  j2ee-spec="5.0"
+  archive="etl_new.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
